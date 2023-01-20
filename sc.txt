@@ -1,0 +1,59 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.65">
+    <meta name="image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAv0zIQ_yNSGPtitnIPW2QrRtldVaB0S6_8g&usqp=CAU">
+    <meta name="description" content="Semua Tergantung Muka.">
+    <meta name="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAv0zIQ_yNSGPtitnIPW2QrRtldVaB0S6_8g&usqp=CAU">
+    <meta name="og:description" content="Semua Tergantung Muka.">
+    <meta name="theme-color" content="black">
+    <link rel="shotcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAv0zIQ_yNSGPtitnIPW2QrRtldVaB0S6_8g&usqp=CAU">
+    <title>Hacked by ./randiXploit Feat Black_X12</title>
+    <style type="text/css" media="all">
+    @import url("https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap");
+    body {
+      background-color: black;
+      color: white;
+      font-family: serif;
+      font-family: "Kelly Slab";
+    }
+    h1 {
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+    p{
+      font-size: 18px; 
+    }
+    img{
+      width: 500px;
+    }
+    audio {
+      opacity:0.85;
+      border-radius:0px;
+      border:0px #fff solid;
+    }
+    center {
+      width:100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 50%;
+      margin: auto;
+      position: absolute;
+    }
+    </style>
+  </head>
+  <body>
+    <center>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAv0zIQ_yNSGPtitnIPW2QrRtldVaB0S6_8g&usqp=CAU" alt="Hacked by ./randiXploit">
+      <h2>Hacked by ./randiXploit Ft Black_X12 | White <span style="color:red">Cyber</span> Illusion - 5<span style="color:red">Clover</span>Link</h2>
+      <p>senang telah mengenalmu walau akhirnya kita akan asing.</p>
+      <p>[ Black Cyber Illusion | 5CloverLink | TegalXploiter ]<br>[ Cyber Gotong-Xploit | Hacktivist Of Garuda ]<br>[ Trio Ngefly | Phillipines Cyber Alliance ]<br>[ SampitXploiter ]</p>
+      <audio src="https://l.top4top.io/m_25764qgk00.mp3" controls></audio>
+    </center>
+  </body>
+</html>
