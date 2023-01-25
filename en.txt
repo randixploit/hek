@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.65">
+    <meta name="image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxESwDFxBbTQ1K9w8w5wuy6En0yR6P8GD2Yw&usqp=CAU">
+    <meta name="description" content="White Cyber Is Just an Illusion.">
+    <meta name="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxESwDFxBbTQ1K9w8w5wuy6En0yR6P8GD2Yw&usqp=CAU">
+    <meta name="og:description" content="White Cyber Is Just an Illusion">
+    <meta name="theme-color" content="black">
+    <link rel="shotcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxESwDFxBbTQ1K9w8w5wuy6En0yR6P8GD2Yw&usqp=CAU">
+    <title>Hacked by ./randiXploit</title>
+    <style type="text/css" media="all">
+    @import url("https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap");
+    body {
+      background-color: white;
+      color: white;
+      font-family: serif;
+      font-family: "Kelly Slab";
+    }
+    h1 {
+      font-weight: bold;
+      letter-spacing: 2px;
+      color: white;
+    }
+    h2 {
+      color: black
+    }
+    p{
+      color:black;
+      font-size: 18px; 
+    }
+    img{
+      width: 500px;
+    }
+    audio {
+      border-radius:0px;
+      border:0px #fff solid;
+    }
+    center {
+      width:100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 50%;
+      margin: auto;
+      position: absolute;
+    }
+    </style>
+  </head>
+  <body>
+    <center>
+      <img src="https://i.postimg.cc/7h4Yx2Qj/20221026-004345.jpg" alt="Hacked by ./randiXploit">
+      <h2>Hacked by ./randiXploit | White Cyber Illusion</h2>
+      <p>Love humans enough, Love Allah Subhanahu wa ta'ala and Prophet Muhammad Shalallaahu Alaihi Wassalaam to the fullest.</p>
+      <p>[ Black Cyber Illusion | SampitXploiter | TegalXploiter ]<br>[ Cyber Gotong-Xploit | Hacktivist Of Garuda ] <br>[ Trio Ngefly ]</p>
+      <audio src="https://c.top4top.io/m_2361hvk7o0.mp3" controls></audio>
+    </center>
+  </body>
+</html>
