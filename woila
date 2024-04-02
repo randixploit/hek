@@ -1,4 +1,3 @@
-<?php
 class Pukimak {
     private $cyaa;
     private $content;
